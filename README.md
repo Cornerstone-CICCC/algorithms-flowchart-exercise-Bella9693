@@ -22,6 +22,8 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
+![Exercise 1](/flowcharts/Exercise%201.JPG)
+
 
 ## Exercise 2
 
@@ -34,6 +36,7 @@ Pseudocode:
 - Print A
 
 ### _Answer_
+![Exercise 2](/flowcharts/Exercise%202.JPG)
 
 ## Exercise 3
 
@@ -42,12 +45,14 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 > Given that the three numbers are not equal to each other)
 
 ### _Answer_
+![Exercise 3](/flowcharts/Exercise%203.JPG)
 
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
+![Exercise 4](/flowcharts/Exercise%204.JPG)
 
 ## Exercise 5
 
@@ -65,4 +70,5 @@ Display the grades as per the table given below:
 | Less than 40%                 | No Grade |
 
 ### _Answer_
+![Exercise 5](/flowcharts/Exercise%205.JPG)
 
