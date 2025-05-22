@@ -56,7 +56,7 @@ Write an algorithm and draw a flowchart to check the three number inputs whether
 
 ### _Answer_
 
-![Exercise 4](/flowcharts/Exercise%204.JPG)
+![Exercise 4](/flowcharts/Exercise%205.JPG)
 
 ## Exercise 5
 
@@ -75,4 +75,4 @@ Display the grades as per the table given below:
 
 ### _Answer_
 
-![Exercise 5](/flowcharts/Exercise5.JPG)
+![Exercise 5](/flowcharts/Exercise%205.JPG)
