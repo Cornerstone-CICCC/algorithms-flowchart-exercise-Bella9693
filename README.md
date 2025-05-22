@@ -75,4 +75,4 @@ Display the grades as per the table given below:
 
 ### _Answer_
 
-![Exercise 5](/flowcharts/Exercise%205.JPG)
+![Exercise 5](/flowcharts/Exercise5.JPG)
